@@ -4,6 +4,8 @@ public class Resep {
         System.out.println("-----------------");
         System.out.println("1. Nasi");
         System.out.println("2. Timum");
+        System.out.println("3. Pelayan Acong");
+
     
     }
 }
